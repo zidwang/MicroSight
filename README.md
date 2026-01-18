@@ -147,4 +147,12 @@ This repository is directly related to a manuscript submitted to *The Visual Com
   url          = {TBD},
   note         = {Please replace this entry with the final preprint URL/DOI}
 }
+
+@software{microsight_zenodo_18290610,
+  title  = {MicroSight},
+  author = {Gu, Fei and Wang, Zijun and Zhang, Ziheng and Zhang, Zeyang and Wu, Jing},
+  year   = {2026},
+  doi    = {10.5281/zenodo.18290610},
+  url    = {https://doi.org/10.5281/zenodo.18290610}
+}
 ```

@@ -4,6 +4,7 @@ title: MicroSight
 type: software
 license: MIT
 repository-code: https://github.com/zidwang/MicroSight
+doi: 10.5281/zenodo.18290610
 date-released: 2026-01-18
 authors:
   - family-names: Gu
@@ -34,3 +35,6 @@ preferred-citation:
   year: 2026
   notes: Submitted to The Visual Computer; a preprint version is available (update URL/DOI below when public).
   url: TBD
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18290610
