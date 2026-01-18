@@ -1,0 +1,2 @@
+-r Mi-DETR/requirements.txt
+-r Mi-CODETR/requirements.txt
